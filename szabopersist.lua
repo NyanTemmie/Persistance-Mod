@@ -6,8 +6,8 @@
 --	####################################################################
 --
 -- CONFIGURE THE KEYS BELOW. Further down you find a list of the codes
-local savekey = 96
-local reloadkey = 110
+local savekey = 120
+local reloadkey = 121
 local disablemodkey = 109
 local enablegamepad = true
 local disableinmissions = true -- set to false if you want the persistence enabled in missions
